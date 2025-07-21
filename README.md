@@ -1,15 +1,10 @@
-# Jomiez-therapy
-
-this is a simple therapy frontend project
-it showcase beautiful and good looking ui/ux
-user interface. 
-
-although it doesn't have any functionality yet
-but is was actually an inspiration to me while building it
-
-it was building using:
-#HTML
-#CSS
-#JAVASCRIPT
-
-you can access it here at: Jom-therapy.netlify.app
+Jomiez-therapy
+Overview
+Jomiez-therapy is a simple frontend project designed to showcase a beautiful and user-friendly UI/UX. While it currently focuses on visual appeal, it served as a significant inspiration during its development.
+Technologies Used
+This project was built using:
+ * HTML
+ * CSS
+ * JavaScript
+Live Demo
+You can access the live project here: jom-therapy.netlify.app/
